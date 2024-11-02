@@ -7,6 +7,7 @@
     <title>IT Support Helpdesk</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
     <style>
+        /* Styling of classes */
         body {
             font-family: 'Arial', sans-serif;
             margin: 0;
@@ -102,8 +103,8 @@
     </style>
 </head>
 
-<body>
-    <div class="sidebar">
+<body>  
+    <div class="sidebar"> /* Creates a sidebar */
         <h2>IT Support Helpdesk</h2>
         <a href="IT_User_Requests.php">View User Requests</a>
         <a href="IT_Respond.php">Respond to Users</a>
