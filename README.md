@@ -10,12 +10,14 @@ A web-based application that allows users to send and view tickets.
 # Installation istructions
 
 1. Install flask on your text editor.
-2. Open up the folder(via xampp) in which the key files reside onto a text editor.
-3. Run and debug the file
-4. Open up local host on your web browser
-5. Open up the folder (ticketing-system)
-6. Choose a file, UserEnd is a folder containing files that will show you the User side of a ticketing system or Choose IT_SupportEnd which contains files that will show you the IT Support side of a ticketing-system.
+2. Open up and run the xammp localhost server.
+3. Open up the folder(via xampp) in which the key files reside onto a text editor.
+4. Run and debug the file
+5. Open up local host on your web browser
+6. Open up the folder (ticketing-system)
+7. Choose a file, UserEnd is a folder containing files that will show you the User side of a ticketing system or Choose IT_SupportEnd which contains files that will show you the IT Support side of a ticketing-system.
 
-# How to use it(User-side & IT Support end)
+# How to use it (User-side & IT Support end)
 1. After you load up the folder on the localhost
 2. To access the User end, open the 'UserEnd' folder and to access the IT end, open the 'IT_SupportEnd' folder.
+3. Click on a file in those respective folders whilst the xampp localhost is open and running, to access the website.
