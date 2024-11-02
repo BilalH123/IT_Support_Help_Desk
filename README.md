@@ -1,5 +1,6 @@
-# ITSupportHelpDesk
-A web-based application that allows users to send and view tickets. 
+# ITSupportHelpDesk project.
+A web-based application that allows users to send and view tickets.
+Allows you to experience a ticketing-system at both the user and IT Support ends.
 
 # Features
 - Allows user to send and view tickets.
@@ -7,7 +8,7 @@ A web-based application that allows users to send and view tickets.
 - Tickets will be tagged by priority
 - Tickets will carry a timestamp to see when it was submitted.
 
-# Installation istructions
+# Installation instructions
 
 1. Install flask on your text editor.
 2. Open up and run the xammp localhost server.
