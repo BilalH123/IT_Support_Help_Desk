@@ -15,3 +15,7 @@ A web-based application that allows users to send and view tickets.
 4. Open up local host on your web browser
 5. Open up the folder (ticketing-system)
 6. Choose a file, UserEnd is a folder containing files that will show you the User side of a ticketing system or Choose IT_SupportEnd which contains files that will show you the IT Support side of a ticketing-system.
+
+# How to use it(User-side & IT Support end)
+1. After you load up the folder on the localhost
+2. To access the User end, open the 'UserEnd' folder and to access the IT end, open the 'IT_SupportEnd' folder.
