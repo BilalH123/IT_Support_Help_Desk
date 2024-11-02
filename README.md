@@ -3,10 +3,10 @@ A web-based application that allows users to send and view tickets.
 Allows you to experience a ticketing-system at both the user and IT Support ends.
 
 # Features
-- Allows user to send and view tickets.
+- Allows you to send and view tickets as a user.
 - Allows you to see tickets sent by users and respond to them as a IT Support Specialist.
-- Tickets will be tagged by priority
-- Tickets will carry a timestamp to see when it was submitted.
+- Tickets sent will be tagged by priority
+- Tickets sent will carry a timestamp to see when it was submitted.
 
 # Installation instructions
 
