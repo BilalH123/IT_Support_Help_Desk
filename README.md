@@ -1,4 +1,4 @@
-# ITSupportHelpDesk project.
+# IT_Support_Help_Desk project.
 A web-based application that allows users to send and view tickets.
 Allows you to experience a ticketing-system at both the user and IT Support ends.
 
