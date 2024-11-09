@@ -15,7 +15,7 @@ Allows you to experience a ticketing-system at both the user and IT Support ends
 - Users will recieve responses from the IT Support Specialist by heading to the "Response" page and entering the email used in the form submission in the textbox displayed on the page to find if your ticket has been answered.
 
 # Installation instructions
-1. Open up and run the xammp localhost server.
+- Open up and run the xammp localhost server.
 2. Open up the folder(via xampp) in which the key files reside onto a text editor.
 3. Run and debug the file
 4. Open up local host on your web browser
