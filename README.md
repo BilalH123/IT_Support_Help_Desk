@@ -1,6 +1,6 @@
 # IT_Support_Help_Desk project.
-A web-based application that allows users to send and view tickets.
-Allows you to experience a ticketing-system at both the user and IT Support ends.
+- A web-based application that allows users to send and view tickets.
+- Help Desk allows you to experience a ticketing-system at both the user and IT Support ends.
 
 # Key functionalities and Features
 - Allows you to send and view tickets as a user.
@@ -16,13 +16,13 @@ Allows you to experience a ticketing-system at both the user and IT Support ends
 
 # Installation instructions
 - Open up and run the xammp localhost server.
-2. Open up the folder(via xampp) in which the key files reside onto a text editor.
-3. Run and debug the file
-4. Open up local host on your web browser
-5. Open up the folder (ticketing-system)
-6. Choose a file, UserEnd is a folder containing files that will show you the User side of a ticketing system or Choose IT_SupportEnd which contains files that will show you the IT Support side of a ticketing-system.
+- Open up the folder(via xampp) in which the key files reside onto a text editor.
+- Run and debug the file
+- Open up local host on your web browser
+- Open up the folder (ticketing-system)
+- Choose a file, UserEnd is a folder containing files that will show you the User side of a ticketing system or Choose IT_SupportEnd which contains files that will show you the IT Support side of a ticketing-system.
 
 # How to use it (User-side & IT Support end)
-1. Load up the ticketing-system folder on the localhost by following the installation instruction.
-2. To access the User end, open the 'UserEnd' folder and to access the IT end, open the 'IT_SupportEnd' folder.
-3. Click on a file in those respective folders whilst the xampp localhost is open and running, to access the website.
+- Load up the ticketing-system folder on the localhost by following the installation instruction.-
+- To access the User end, open the 'UserEnd' folder and to access the IT end, open the 'IT_SupportEnd' folder.
+- Click on a file in those respective folders whilst the xampp localhost is open and running, to access the website.
