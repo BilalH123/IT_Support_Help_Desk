@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT Helpdesk</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../Styling/USER_STYLING.css">
+    <link rel="stylesheet" href="../Styling/User_Styling.css">
 </head>
 
 <body>
@@ -25,7 +25,7 @@
 
         <div class="content-area">
             <?php
-            $file = '../Data/data.json';
+            $file = '../Forms/data.json';
 
             // This checks if the file exists and contains data
             if (file_exists($file)) {
@@ -74,5 +74,4 @@
 </body>
 
 </html>
-
 
