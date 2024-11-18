@@ -7,6 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = htmlspecialchars($_POST['email']);
     $description = htmlspecialchars($_POST['description']);
     $priority = htmlspecialchars($_POST['priority']);
+    date_default_timezone_set("Europe/London");
     $timestamp = date("Y-m-d H:i:s");
     // This creates an associative array to store the form data
     $formData = array(
