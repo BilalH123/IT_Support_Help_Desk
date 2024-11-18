@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>IT Support Helpdesk</title>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="../Styling/IT_STYLING.css">
+    <link rel="stylesheet" href="../Styling/IT_Styling.css">
 <body>
     <!-- This creates the Sidebar -->
     <div class="sidebar">
@@ -21,7 +21,7 @@
             <p class="text-center">This is the pending requests from users.</p>
 
             <?php
-            $file = '../Data/data.json';
+            $file = '../Forms/data.json';
 
             // This Checks if the file exists and contains data
             if (file_exists($file)) {
